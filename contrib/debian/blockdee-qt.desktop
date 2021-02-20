@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=BlockDee Core
+Comment=BlockDee P2P Cryptocurrency
+Comment[de]=Verbinde mit dem BlockDee peer-to-peer Netzwerk
+Comment[fr]=BlockDee, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=BlockDee, eşten eşe kriptografik sanal para birimi
+Exec=blockdee-qt %u
+Terminal=false
+Type=Application
+Icon=blockdee128
+MimeType=x-scheme-handler/blockdee;
+Categories=Office;Finance;

@@ -1,0 +1,6 @@
+usr/local/bin/blockdee-qt usr/bin
+share/pixmaps/blockdee32.xpm usr/share/pixmaps
+share/pixmaps/blockdee16.xpm usr/share/pixmaps
+share/pixmaps/blockdee128.png usr/share/pixmaps
+debian/blockdee-qt.desktop usr/share/applications
+debian/blockdee-qt.protocol usr/share/kde4/services/

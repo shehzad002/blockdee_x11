@@ -1,0 +1,25 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="ar">locale/blockdee_ar.qm</file>
+        <file alias="bg">locale/blockdee_bg.qm</file>
+        <file alias="de">locale/blockdee_de.qm</file>
+        <file alias="en">locale/blockdee_en.qm</file>
+        <file alias="es">locale/blockdee_es.qm</file>
+        <file alias="fi">locale/blockdee_fi.qm</file>
+        <file alias="fr">locale/blockdee_fr.qm</file>
+        <file alias="it">locale/blockdee_it.qm</file>
+        <file alias="ja">locale/blockdee_ja.qm</file>
+        <file alias="ko">locale/blockdee_ko.qm</file>
+        <file alias="nl">locale/blockdee_nl.qm</file>
+        <file alias="pl">locale/blockdee_pl.qm</file>
+        <file alias="pt">locale/blockdee_pt.qm</file>
+        <file alias="ru">locale/blockdee_ru.qm</file>
+        <file alias="sk">locale/blockdee_sk.qm</file>
+        <file alias="sv">locale/blockdee_sv.qm</file>
+        <file alias="th">locale/blockdee_th.qm</file>
+        <file alias="tr">locale/blockdee_tr.qm</file>
+        <file alias="vi">locale/blockdee_vi.qm</file>
+        <file alias="zh_CN">locale/blockdee_zh_CN.qm</file>
+        <file alias="zh_TW">locale/blockdee_zh_TW.qm</file>
+    </qresource>
+</RCC>
